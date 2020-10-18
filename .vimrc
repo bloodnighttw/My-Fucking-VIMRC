@@ -10,10 +10,11 @@ set rtp+=~/.vim/bundle/Vundle.vim
 " Vundle Plugin Manager
 
 call vundle#begin()
+" Vundle 
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'tpope/vim-fugitive'
 Plugin 'git://git.wincent.com/command-t.git'
-
+" Vundle
 Plugin 'neoclide/coc.nvim', {'branch': 'release'}
 
 Plugin 'vim-airline/vim-airline'
@@ -30,6 +31,8 @@ Plugin 'ryanoasis/vim-devicons'
 Plugin 'preservim/nerdtree'
 Plugin 'mhinz/vim-startify'
 Plugin 'christoomey/vim-system-copy'
+
+" You can install your plugin here
 
 call vundle#end()            " required
 filetype plugin indent on    " required
