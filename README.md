@@ -4,9 +4,9 @@ The repo share my ``.vimrc`` to other and backup it.
 
 I use VIM for c++ (mainly) or python coding,use Jetbrains Intellij IDEA with VIM Plugin for java coding.
 
-NOTE! I am not the master of VIM , **BUT VIM REALLY HELP ME RISE THE SPEED OF CODING , AND YOU SHOULD TRY IT IF YOU ARE WRITE C++ OR PYTHON**
+NOTE! I am not the master of VIM , **BUT VIM REALLY HELP ME RISE THE SPEED OF CODING , AND YOU SHOULD TRY IT IF YOU ARE CODING IN C++ OR PYTHON**
 
-If this repo really help you,pls consider star,thanks.
+If this repo really help you,**please consider star**,thanks.
 
 ## How to use
 1. Install Vundle (check the [Vundel repo](https://github.com/VundleVim/Vundle) to see how to install)
