@@ -30,7 +30,7 @@ A3: Yes. Just Type ``:CocInstall coc-python`` inside the VIM(In Normal mode) , a
 
 Q4: Can I use this ``.vimrc`` to write JAVA?
 
-A4: Yes. ** BUT I DON'T RECOMMAND YOU TO USE ``coc-java`` TO WRITE JAVA CODE BECAUSE JDT.LS IS NOT POWERFUL AS OTHER IDE(I THINK) .** Try Jetbrains Intellij IDEA with VIM Plugin!It will also speed up your speed of coding.
+A4: Yes. **BUT I DON'T RECOMMAND YOU TO USE ``coc-java`` TO WRITE JAVA CODE BECAUSE JDT.LS IS NOT POWERFUL AS OTHER IDE(I THINK) .** Try Jetbrains Intellij IDEA with VIM Plugin!It will also speed up your speed of coding.
 
 Q5: Other Language?
 
