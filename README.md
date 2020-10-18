@@ -50,7 +50,7 @@ A5: You Should search by yourself. Try Google "coc.nvim XXX" (XXX is your langua
 ### VundleVim/Vundle
 - a plugin manager plugin 
 ### neoclide/coc.nvim
-- provide language server function ,note need nodejs! pls check their [repo](https://github.com/neoclide/coc.nvim ) to see the requirement.
+- provide language server function ,it need nodejs to run! pls check their [repo](https://github.com/neoclide/coc.nvim ) to see the requirement.
 ### vim-airline/vim-airline
 - provide statue bar , tab bar and buffer bar(I disable it).
 ### vim-airline/vim-airline-themes
