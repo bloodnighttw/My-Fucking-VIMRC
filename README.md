@@ -8,6 +8,8 @@ NOTE! I am not the master of VIM , **BUT VIM REALLY HELP ME RISE THE SPEED OF CO
 
 If this repo really help you,**please consider star**,thanks.
 
+I will upload my snip settings soon!
+
 ## How to use
 1. Install Vundle (check the [Vundel repo](https://github.com/VundleVim/Vundle) to see how to install)
 2. Download the ``.vimrc`` in this repo and replace your ``.vimrc`` into my ``.vimrc``
