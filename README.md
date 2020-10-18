@@ -4,7 +4,9 @@ The repo share my ``.vimrc`` to other and backup it.
 
 I use VIM for c++ (mainly) or python coding,use Jetbrains Intellij IDEA with VIM Plugin for java coding.
 
-NOTE! I am not the master of VIM , ** BUT VIM REALLY HELP ME RISE THE SPEED OF CODING , AND YOU SHOULD TRY IT IF YOU ARE WRITE C++ OR PYTHON **
+NOTE! I am not the master of VIM , *BUT VIM REALLY HELP ME RISE THE SPEED OF CODING , AND YOU SHOULD TRY IT IF YOU ARE WRITE C++ OR PYTHON*
+
+If this repo really help you,pls consider star,thanks.
 
 ## Q&A
 
@@ -26,7 +28,7 @@ A4: Yes. ** BUT I DON'T RECOMMAND YOU TO USE ``coc-java`` TO WRITE JAVA CODE BEC
 
 Q5: Other Language?
 
-A5: You Should search by yourself. Try Google "coc.nvim XXX" (XXX is your language name),I think there will have a result.
+A5: You Should search by yourself. Try Google "coc.nvim XXX" (XXX is your language name),I think there will have a lot of result.
 
 ## My enviroment
 
