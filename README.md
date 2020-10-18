@@ -11,7 +11,7 @@ If this repo really help you,pls consider star,thanks.
 ## How to use
 1. Install Vundle (check the [Vundel repo](https://github.com/VundleVim/Vundle) to see how to install)
 2. Download the ``.vimrc`` in this repo and replace your ``.vimrc`` into my ``.vimrc``
-3. Open VIM,Type ``:PluginInstall`` to install all the plugin!
+3. Open VIM,Type ``:PluginInstall`` (in normal mode) to install all the plugin!
 4. After the install,ENJOY!
 
 ## Q&A
