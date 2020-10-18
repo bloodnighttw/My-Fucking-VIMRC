@@ -45,7 +45,6 @@ A5: You Should search by yourself. Try Google "coc.nvim XXX" (XXX is your langua
 5. Ram: 1GB (Poor My Computer)
 6. Terminal: Konsole (with tmux)
 
-## Here is the links.
 
 ## Plugin List
 ### VundleVim/Vundle
