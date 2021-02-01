@@ -6,10 +6,16 @@
 ## My enviroment
 
 ~~1. Linux Lite(Ubuntu 18.04 based)~~
+
 ~~2. Vim 8.2~~
+
+
 ~~3. Node.js v12.18.2 (coc.nvim need nodejs , check  their [repo](https://github.com/neoclide/coc.nvim)  to see the requirement. )~~
+
 ~~4. CPU: intel  Celeron  dual-core processor T1600 (Yeah,Very old and slow)~~
+
 ~~5. Ram: 1GB (Poor My Computer)~~
+
 ~~6. Terminal: Konsole (with tmux)~~
 
 MY Computer Disk Broken....... QAQ
