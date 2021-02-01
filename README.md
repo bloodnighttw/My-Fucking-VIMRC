@@ -1,5 +1,5 @@
 
-# These files will move to [bloodnighttw/dotfile](https://github.com/bloodnighttw/dotfile)
+# These files will move to [here](https://github.com/bloodnighttw/dotfile) inside the repo [bloodnighttw/dotfile](https://github.com/bloodnighttw/dotfile)
 
 
 
